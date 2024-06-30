@@ -1,9 +1,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NurungjiBurger&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNurungjiBurger&count_bg=%23C0BABA&title_bg=%23C080F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+
 
 [![코드트리|실력진단-qazw181900](https://banner.codetree.ai/v1/banner/qazw181900)](https://www.codetree.ai/profiles/qazw181900)
 
