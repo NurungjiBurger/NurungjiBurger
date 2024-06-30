@@ -6,9 +6,17 @@
 <br>
 
 <table>
+  <thread>
+    <tr>
+      <th>
 [![코드트리|실력진단-qazw181900](https://banner.codetree.ai/v1/banner/qazw181900)](https://www.codetree.ai/profiles/qazw181900)
+        </th>
+      <th>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qazw181900)](https://solved.ac/qazw181900)
+        </th>
+      </tr>
+    </thread>
 </table>
 <table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurungjiBurger)](https://github.com/anuraghazra/github-readme-stats)
