@@ -4,9 +4,9 @@
 [![코드트리|실력진단-qazw181900](https://banner.codetree.ai/v1/banner/qazw181900)](https://www.codetree.ai/profiles/qazw181900)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qazw1819800)](https://solved.ac/qazw181900)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qazw181900)](https://solved.ac/qazw181900)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qazw181900)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurungjiBurger)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazw181900)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurungjiBurger)](https://github.com/anuraghazra/github-readme-stats)
 
