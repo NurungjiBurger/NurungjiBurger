@@ -1,34 +1,55 @@
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NurungjiBurger&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNurungjiBurger&count_bg=%23C0BABA&title_bg=%23C080F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  ### Park Sang Bin
+  
+
+  <a href="https://ritbul-develop.tistory.com/"><img src="https://img.shields.io/badge/Ritbulog-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://tidy-harmony-366.notion.site/e1b0a39f55904800a668e3a9fe4911ed?pvs=4"><img src="https://img.shields.io/badge/Portfolio-735998?style=badge&logo=Notion&logoColor=white"/></a> 
+  ---
 
 </div>
 
-<div align="center">
+- 💭 [DreamWorker](https://github.com/NurungjiBurger/DreamWorker) - 기획, 설계 및 개발 <sub>(2021.04 ~ 2021.12)</sub> [다운로드](https://play.google.com/store/apps/details?id=com.SangBinPark.DreamWorker&pli=1)
+- 🤖 [**Observot**](https://github.com/NurungjiBurger/Observot) - 기획 및 개발 <sub>(2022.04 ~ 22.05)</sub>
+- 🥚 [**알부수기**](https://github.com/NurungjiBurger/UnityProject) - 기획 및 개발 <sub>(2023.08 ~ 2023.09)</sub> [다운로드](https://play.google.com/store/apps/details?id=com.SangbinPark.CrashEgg)
+- 👽 [Defenders United](https://github.com/NurungjiBurger/DefendersUnited) - 무기, 총기 관련 및 클라이언트 개발 및 구현, 씬 전환 및 데이터 관리 구현 <sub>(2023.03 ~ 23.06)</sub>
+- ☀️ [알고리즘스터디 : 햇살마을](https://github.com/HaessalTown/Coding-Test-Study) - 개발자를 꿈꾸는 남정네들의 알고리즘 스터디 <sub>(2023.10 ~ )</sub>
 
-[![코드트리|실력진단-qazw181900](https://banner.codetree.ai/v1/banner/qazw181900)](https://www.codetree.ai/profiles/qazw181900)
-
-</div>
-
-
-<div align="center">
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qazw181900)](https://solved.ac/qazw181900)
-
-</div>
+<br/>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurungjiBurger)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurungjiBurger)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnsals0904&count_bg=%23DD246F&title_bg=%23FF8484&icon=firefoxbrowser.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/NurungjiBurger)
+    <div>
+        <h3>📊 GitHub Stats </h3>
+    </div>
+    <div>
+        <img
+                src="https://github-readme-stats.vercel.app/api?username=NurungjiBurger&show_icons=true&theme=tokyonight&hide_border=true"
+                height="250"
+                alt="github stats"
+        />
+        <img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurungjiBurger&theme=tokyonight&hide_border=true"
+                height="250"
+        />
+        <img 
+                src="https://github-readme-activity-graph.vercel.app/graph?username=NurungjiBurger&theme=react-dark"
+        />
+    </div>
+    
+  <br>
+    <div>
+        <h3>🏆 Algorithm rank 🏆</h3>
+    </div>
+    <div>
+        <img
+                src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qazw181900"
+                height="250"
+                alt="solved.ac"
+        />
+        <img
+                src="https://banner.codetree.ai/v1/banner/qazw181900"
+                height="250"
+        />
+    </div>
 </div>
