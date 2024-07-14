@@ -25,12 +25,12 @@
     <div>
         <img
                 src="https://github-readme-stats.vercel.app/api?username=NurungjiBurger&show_icons=true&theme=tokyonight&hide_border=true"
-                height="250"
+                height="200"
                 alt="github stats"
         />
         <img
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurungjiBurger&theme=tokyonight&hide_border=true"
-                height="250"
+                height="200"
         />
         <img 
                 src="https://github-readme-activity-graph.vercel.app/graph?username=NurungjiBurger&theme=react-dark"
@@ -44,12 +44,12 @@
     <div>
         <img
                 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qazw181900"
-                height="250"
+                height="200"
                 alt="solved.ac"
         />
         <img
                 src="https://banner.codetree.ai/v1/banner/qazw181900"
-                height="250"
+                height="200"
         />
     </div>
 </div>
