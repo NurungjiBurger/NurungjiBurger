@@ -15,6 +15,7 @@
 - ☀️ [알고리즘스터디 : 햇살마을](https://github.com/HaessalTown/Coding-Test-Study) - 개발자를 꿈꾸는 남정네들의 알고리즘 스터디 <sub>(2023.10 ~ )</sub>
 - 🛒 [류](https://github.com/A-two-Z) , [류 : Digital Twin](https://github.com/NurungjiBurger/RYU-DigitalTwin) , [류 : Wear OS](https://github.com/NurungjiBurger/RYU-WearOS) - SSAFY 11기 공통 프로젝트 FE 개발 <sub>(2024.07 ~ 2024.08)</sub>
 - 📚 [카툰타임](https://github.com/NurungjiBurger/CartoonTime-Application) - SSAFY 11기 특화 프로젝트 FE, UWB/BLE, 모션 인식 개발 <sub>(2024.08 ~ 2024.10)</sub>
+- 🏃🏻‍♂️ [PaceMaker](https://github.com/NurungjiBurger/PaceMaker) - SSAFY 11기 자율 프로젝트 FE, TTS/STT 활용 AI 면접 개발 <sub>(2024.10 ~ 2024.11)</sub>
 
 <br/>
 
