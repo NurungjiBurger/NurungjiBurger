@@ -11,7 +11,7 @@
 <br>
 
   ## ✈ Career & Activity
-- 삼성 청년 SW 아카데미 (Samsung Software Academy for Youth / SSAFY) 실습코치 12th (2025.01 ~ )
+- 삼성 청년 SW 아카데미 (Samsung Software Academy for Youth / SSAFY) 실습코치 12th (2024.12 ~ 2025.06)
 - 삼성 청년 SW 아카데미 11th (2024.01 ~ 2024.12)
 - 2024 신한은행 해커톤 (2024.08)
 - 세종대학교 컴퓨터공학 (2017.03 ~ 2024.02)
@@ -50,14 +50,15 @@
   <br>
 
 ## Projects
+- 🏃🏻‍♂️ [PaceMaker](https://github.com/NurungjiBurger/PaceMaker) - SSAFY 11기 자율 프로젝트 FE, TTS/STT 활용 AI 면접 개발 <sub>(2024.10 ~ 2024.11)</sub>
+- 📚 [카툰타임](https://github.com/NurungjiBurger/CartoonTime-Application) - SSAFY 11기 특화 프로젝트 FE, UWB/BLE, 모션 인식 개발 <sub>(2024.08 ~ 2024.10)</sub>
+- 🛒 [류](https://github.com/A-two-Z) , [류 : Digital Twin](https://github.com/NurungjiBurger/RYU-DigitalTwin) , [류 : Wear OS](https://github.com/NurungjiBurger/RYU-WearOS) - SSAFY 11기 공통 프로젝트 FE 개발 <sub>(2024.07 ~ 2024.08)</sub>
+- ☀️ [알고리즘스터디 : 햇살마을](https://github.com/HaessalTown/Coding-Test-Study) - 개발자를 꿈꾸는 남정네들의 알고리즘 스터디 <sub>(2023.10 ~ )</sub>
 - 💭 [DreamWorker](https://github.com/NurungjiBurger/DreamWorker) - 기획, 설계 및 개발 <sub>(2021.04 ~ 2021.12)</sub> [다운로드](https://play.google.com/store/apps/details?id=com.SangBinPark.DreamWorker&pli=1)
 - 🤖 [Observot](https://github.com/NurungjiBurger/Observot) - 기획 및 개발 <sub>(2022.04 ~ 22.05)</sub>
 - 🥚 [알부수기](https://github.com/NurungjiBurger/UnityProject) - 기획 및 개발 <sub>(2023.08 ~ 2023.09)</sub> [다운로드](https://play.google.com/store/apps/details?id=com.SangbinPark.CrashEgg)
 - 👽 [Defenders United](https://github.com/NurungjiBurger/DefendersUnited) - 무기, 총기 관련 및 클라이언트 개발 및 구현, 씬 전환 및 데이터 관리 구현 <sub>(2023.03 ~ 23.06)</sub>
-- ☀️ [알고리즘스터디 : 햇살마을](https://github.com/HaessalTown/Coding-Test-Study) - 개발자를 꿈꾸는 남정네들의 알고리즘 스터디 <sub>(2023.10 ~ )</sub>
-- 🛒 [류](https://github.com/A-two-Z) , [류 : Digital Twin](https://github.com/NurungjiBurger/RYU-DigitalTwin) , [류 : Wear OS](https://github.com/NurungjiBurger/RYU-WearOS) - SSAFY 11기 공통 프로젝트 FE 개발 <sub>(2024.07 ~ 2024.08)</sub>
-- 📚 [카툰타임](https://github.com/NurungjiBurger/CartoonTime-Application) - SSAFY 11기 특화 프로젝트 FE, UWB/BLE, 모션 인식 개발 <sub>(2024.08 ~ 2024.10)</sub>
-- 🏃🏻‍♂️ [PaceMaker](https://github.com/NurungjiBurger/PaceMaker) - SSAFY 11기 자율 프로젝트 FE, TTS/STT 활용 AI 면접 개발 <sub>(2024.10 ~ 2024.11)</sub>
+
 
 <br/>
 
