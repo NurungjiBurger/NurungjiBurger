@@ -3,7 +3,7 @@
   # Park Sang Bin
   
 
-  <a href="https://ritbul-develop.tistory.com/"><img src="https://img.shields.io/badge/Ritbulog-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://tidy-harmony-366.notion.site/14721543e40e80c2818afb04d7e240d1?pvs=4"><img src="https://img.shields.io/badge/Portfolio-735998?style=badge&logo=Notion&logoColor=white"/></a> 
+  <a href="https://ritbul-develop.tistory.com/"><img src="https://img.shields.io/badge/Ritbulog-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://tidy-harmony-366.notion.site/1b921543e40e80a796b5f8921e36b17b?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-735998?style=badge&logo=Notion&logoColor=white"/></a> 
   ---
 
 </div>
